@@ -1,1 +1,3 @@
 # Algoritimos-Treino
+Este é um reposítório onde guardo alguns algoritmos que acho interessante e/ou desafios de código que enncontro na internet.
+As minhas inspirações para esse repositório são as aulas da plataforma DIO, onde faço meus cursos e estudos (Confira meu Linkedin que está no meu perfil para ver meus certificados), e um vídeo da Fernanda Kipper no YouTube onde ela resolve alguns desafios de entrevista da Google. Vários dos algoritmos deste repositório vem da lista do site leetcode mencionada no vídeo. Lista: https://leetcode.com/problem-list/top-google-questions/
